@@ -183,7 +183,7 @@ header .header-content {
     visibility: hidden;
     opacity: 0;
     text-align: left;
-    
+
 }
 .dropdown-menu2 ul li a {
     display: block;
@@ -584,7 +584,7 @@ section.slide img{
     position: relative;
     width: 100%;
 } */
-.line{
+#line{
     position: absolute;
     width: 84rem;
     height: .5pt;
